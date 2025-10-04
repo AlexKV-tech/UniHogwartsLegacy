@@ -1,6 +1,6 @@
 # Hogwarts Legacy – Java Implementation
 
-**Author:** a12350014  
+**Author:** AlexK  
 **Course:** Programming 2  
 **University:** University of Vienna  
 **Semester:** Summer Term 2025
@@ -54,9 +54,9 @@ cd src
 ```
 ### 2. Compile
 ```bash
-javac a12350014/*.java
+javac AlexK/*.java
 ```
 ### 3. Run
 ```bash
-java a12350014.TestFile
+java AlexK.TestFile
 ```
